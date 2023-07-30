@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 
 - 🔵 I’m from XMachine FTC Team
